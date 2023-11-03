@@ -1,0 +1,8 @@
+flask
+numpy
+alpha_vantage
+matplotlib
+io
+base64
+tensorflow
+gunicorn
