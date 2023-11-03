@@ -5,4 +5,5 @@ matplotlib
 Python-IO
 pybase64
 tensorflow
+pandas
 gunicorn
