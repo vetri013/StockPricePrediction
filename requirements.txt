@@ -3,6 +3,6 @@ numpy
 alpha_vantage
 matplotlib
 Python-IO
-base64
+pybase64
 tensorflow
 gunicorn
