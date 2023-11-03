@@ -2,7 +2,7 @@ flask
 numpy
 alpha_vantage
 matplotlib
-io
+Python-IO
 base64
 tensorflow
 gunicorn
